@@ -22,9 +22,9 @@
         "name": "도시락",
         "price": 12000,
         "description": "미역국, 제육볶음 외 반찬",
-        "photoUrl": "/local-media/inan-1.png",
+        "photoUrl": "/local-media/inan-1.webp",
         "photoUrls": [
-          "/local-media/inan-1.png"
+          "/local-media/inan-1.webp"
         ]
       },
       "reviews": [],
@@ -55,10 +55,10 @@
         "name": "도시락",
         "price": 15000,
         "description": "제육/돈육불고기 + 국 + 기본찬 + 한입과일",
-        "photoUrl": "/local-media/iam-1.png",
+        "photoUrl": "/local-media/iam-1.webp",
         "photoUrls": [
-          "/local-media/iam-1.png",
-          "/local-media/iam-2.png"
+          "/local-media/iam-1.webp",
+          "/local-media/iam-2.webp"
         ]
       },
       "reviews": [],
@@ -70,11 +70,11 @@
     {
       "id": "12dal",
       "name": "열두달키친",
-      "category": "양식",
+      "category": "그 외",
       "address": "부산광역시 금정구 금샘로386번길 9 1층",
-      "addressSource": "https://www.diningcode.com/profile.php?rid=RVbxHAqw8YkR",
+      "addressSource": "사용자 제공 · 동료 전달",
       "phone": "051-581-3371",
-      "mapUrl": "https://naver.me/xXnN4EKK",
+      "mapUrl": "https://naver.me/xoHPltXE",
       "referenceUrl": "https://www.instagram.com/12dalkitchen",
       "providedAt": "2026-10-29",
       "verifiedAt": "",
@@ -84,31 +84,32 @@
       "minQuantityConfirmed": false,
       "minAmount": 0,
       "minAmountConfirmed": false,
-      "delivery": null,
-      "pickup": null,
-      "deliveryFee": null,
-      "leadTime": "소량 주문은 다른 주문 일정에 따라 가능 여부가 달라 사전 문의 필요",
-      "orderingNotes": "동료에게 전달받은 정보입니다.\n소량 주문은 불가할 수 있으나 다른 기존 주문이 있는 경우 가능할 수 있습니다. 주문 전에 확인해 주세요.\n최소 수량·금액, 배달·방문 포장 및 배달비는 미확인입니다.\n주소는 등록 자료로 확인했으나 이전 주소가 함께 검색되므로 방문 전 위치를 확인해 주세요.",
+      "delivery": true,
+      "pickup": true,
+      "deliveryFee": 0,
+      "leadTime": "미확인 · 사전 문의 필요",
+      "orderingNotes": "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있을 경우 가능한 경우도 있으니 사전에 확인해 주세요.\n소량 주문은 개당 20,000원 이상이어야 한다는 전달 정보가 있습니다. 적용 수량·메뉴·최종 단가는 업체 확인이 필요합니다.\n배달·방문 포장 가능, 배달비 무료입니다.\n최소 수량과 주문 마감은 미확인입니다.",
       "menu": {
         "id": "12dal-fusion",
         "name": "퓨전 도시락",
         "price": 15000,
-        "description": "세부 구성은 업체 확인 필요 · 제공 사진 참고",
-        "photoUrl": "/local-media/12dal-fusion.png",
+        "description": "샌드위치, 유부, 쌈밥, 김밥",
+        "photoUrl": "/local-media/12dal-fusion.webp",
         "photoUrls": [
-          "/local-media/12dal-fusion.png"
+          "/local-media/12dal-fusion.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "freeDeliveryFrom": null
     },
     {
       "id": "12dal",
       "name": "열두달키친",
       "category": "한식",
       "address": "부산광역시 금정구 금샘로386번길 9 1층",
-      "addressSource": "https://www.diningcode.com/profile.php?rid=RVbxHAqw8YkR",
+      "addressSource": "사용자 제공 · 동료 전달",
       "phone": "051-581-3371",
-      "mapUrl": "https://naver.me/xXnN4EKK",
+      "mapUrl": "https://naver.me/xoHPltXE",
       "referenceUrl": "https://www.instagram.com/12dalkitchen",
       "providedAt": "2026-10-29",
       "verifiedAt": "",
@@ -118,19 +119,436 @@
       "minQuantityConfirmed": false,
       "minAmount": 0,
       "minAmountConfirmed": false,
-      "delivery": null,
-      "pickup": null,
-      "deliveryFee": null,
-      "leadTime": "소량 주문은 다른 주문 일정에 따라 가능 여부가 달라 사전 문의 필요",
-      "orderingNotes": "동료에게 전달받은 정보입니다.\n소량 주문은 불가할 수 있으나 다른 기존 주문이 있는 경우 가능할 수 있습니다. 주문 전에 확인해 주세요.\n최소 수량·금액, 배달·방문 포장 및 배달비는 미확인입니다.\n주소는 등록 자료로 확인했으나 이전 주소가 함께 검색되므로 방문 전 위치를 확인해 주세요.",
+      "delivery": true,
+      "pickup": true,
+      "deliveryFee": 0,
+      "leadTime": "미확인 · 사전 문의 필요",
+      "orderingNotes": "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있을 경우 가능한 경우도 있으니 사전에 확인해 주세요.\n소량 주문은 개당 20,000원 이상이어야 한다는 전달 정보가 있습니다. 적용 수량·메뉴·최종 단가는 업체 확인이 필요합니다.\n배달·방문 포장 가능, 배달비 무료입니다.\n최소 수량과 주문 마감은 미확인입니다.",
       "menu": {
         "id": "12dal-korean",
         "name": "한식 도시락",
         "price": 15000,
-        "description": "세부 구성은 업체 확인 필요 · 제공 사진 참고",
-        "photoUrl": "/local-media/12dal-korean.png",
+        "description": "제육볶음 + 국 + 기본찬",
+        "photoUrl": "/local-media/12dal-korean.webp",
         "photoUrls": [
-          "/local-media/12dal-korean.png"
+          "/local-media/12dal-korean.webp"
+        ]
+      },
+      "reviews": [],
+      "freeDeliveryFrom": null
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-yukgaejang",
+        "name": "육개장",
+        "price": 15000,
+        "description": "육개장 · 세부 포장 구성은 업체 확인 필요",
+        "photoUrl": "/local-media/songrim-yukgaejang.webp",
+        "photoUrls": [
+          "/local-media/songrim-yukgaejang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-daegutang",
+        "name": "대구탕",
+        "price": 15000,
+        "description": "대구탕 · 세부 포장 구성은 업체 확인 필요",
+        "photoUrl": "/local-media/songrim-daegutang.webp",
+        "photoUrls": [
+          "/local-media/songrim-daegutang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-galbitang",
+        "name": "갈비탕",
+        "price": 15000,
+        "description": "갈비탕 · 세부 포장 구성은 업체 확인 필요",
+        "photoUrl": "/local-media/songrim-galbitang.webp",
+        "photoUrls": [
+          "/local-media/songrim-galbitang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-bibim-yukgaejang",
+        "name": "비빔밥+육개장",
+        "price": 15000,
+        "description": "비빔밥 + 육개장 · 제공 메뉴 사진 참고",
+        "photoUrl": "/local-media/songrim-bibim-yukgaejang.webp",
+        "photoUrls": [
+          "/local-media/songrim-bibim-yukgaejang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-bibim-daegutang",
+        "name": "비빔밥+대구탕",
+        "price": 15000,
+        "description": "비빔밥 + 대구탕 · 제공 메뉴 사진 참고",
+        "photoUrl": "/local-media/songrim-bibim-daegutang.webp",
+        "photoUrls": [
+          "/local-media/songrim-bibim-daegutang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-bibim-galbitang",
+        "name": "비빔밥+갈비탕",
+        "price": 15000,
+        "description": "비빔밥 + 갈비탕 · 제공 메뉴 사진 참고",
+        "photoUrl": "/local-media/songrim-bibim-galbitang.webp",
+        "photoUrls": [
+          "/local-media/songrim-bibim-galbitang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "songrim",
+      "name": "송림",
+      "category": "한식",
+      "phone": "0507-1432-6565",
+      "address": "부산광역시 금정구 부산대학로64번길 12-6",
+      "mapUrl": "https://naver.me/IMycCMHf",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 네이버 지도 정보·메뉴 사진 / 포장·가격 제보",
+      "delivery": false,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "매장 안내 라스트오더 19:30 · 포장·단체 주문 마감은 사전 문의",
+      "orderingNotes": "모든 등록 메뉴 포장 가능, 포장 가격은 각 15,000원입니다. (사용자 제공 정보)\n배달은 하지 않으며 방문 포장만 가능합니다. 최소 주문 수량·금액은 미확인입니다. 단체 포장과 수령 시간은 전화로 확인해 주세요.\n매장 안내 라스트오더는 19:30이며 요일별 영업시간은 지도에서 확인해 주세요.\n부산대역 3번 출구에서 약 579m, 부산대 정문 스타벅스 골목 안쪽입니다. 예약 가능.",
+      "menu": {
+        "id": "songrim-special-galbitang",
+        "name": "특갈비탕",
+        "price": 15000,
+        "description": "특갈비탕 · 세부 포장 구성은 업체 확인 필요",
+        "photoUrl": "/local-media/songrim-special-galbitang.webp",
+        "photoUrls": [
+          "/local-media/songrim-special-galbitang.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "mongport",
+      "name": "몽포트",
+      "category": "양식",
+      "phone": "051-583-0981",
+      "address": "부산광역시 금정구 부산대학로63번길 7 2층",
+      "mapUrl": "https://naver.me/xIeXMUVq",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 메뉴·가격·사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "delivery": null,
+      "pickup": null,
+      "deliveryFee": null,
+      "leadTime": "도시락 주문 마감 미확인 · 매장 안내 라스트오더 20:00",
+      "orderingNotes": "최소 주문 수량·금액, 배달 및 방문 포장 가능 여부와 배달비는 미확인입니다. 주문 전에 업체에 확인해 주세요.\n매장 안내 라스트오더는 20:00이며 도시락 예약 마감과는 다를 수 있습니다.\n부산대역 3번 출구에서 약 570m, 2층입니다. 예약·단체 이용 가능 안내가 있습니다.",
+      "menu": {
+        "id": "mongport-standard",
+        "name": "몽포트 도시락",
+        "price": 25000,
+        "description": "세부 메뉴 구성 미확인 · 사용자 제공 사진 참고",
+        "photoUrl": "/local-media/mongport-standard.webp",
+        "photoUrls": [
+          "/local-media/mongport-standard.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "mongport",
+      "name": "몽포트",
+      "category": "양식",
+      "phone": "051-583-0981",
+      "address": "부산광역시 금정구 부산대학로63번길 7 2층",
+      "mapUrl": "https://naver.me/xIeXMUVq",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 메뉴·가격·사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "delivery": null,
+      "pickup": null,
+      "deliveryFee": null,
+      "leadTime": "도시락 주문 마감 미확인 · 매장 안내 라스트오더 20:00",
+      "orderingNotes": "최소 주문 수량·금액, 배달 및 방문 포장 가능 여부와 배달비는 미확인입니다. 주문 전에 업체에 확인해 주세요.\n매장 안내 라스트오더는 20:00이며 도시락 예약 마감과는 다를 수 있습니다.\n부산대역 3번 출구에서 약 570m, 2층입니다. 예약·단체 이용 가능 안내가 있습니다.",
+      "menu": {
+        "id": "mongport-salmon",
+        "name": "몽포트 연어 도시락",
+        "price": 30000,
+        "description": "세부 메뉴 구성 미확인 · 사용자 제공 사진 참고",
+        "photoUrl": "/local-media/mongport-salmon.webp",
+        "photoUrls": [
+          "/local-media/mongport-salmon.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "jeonggadam",
+      "name": "정가담",
+      "category": "한식",
+      "phone": "051-518-9830",
+      "address": "부산광역시 금정구 금샘로 15 102호",
+      "mapUrl": "https://naver.me/xf5Mrfou",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 주문 정보·메뉴 사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "delivery": true,
+      "pickup": true,
+      "deliveryFee": null,
+      "leadTime": "도시락 예약 마감 미확인 · 매장 안내 라스트오더 19:50",
+      "orderingNotes": "금액과 관계없이 배달 가능하다는 사용자 제공 정보가 있습니다. 배달비와 최소 주문금액·수량은 별도로 확인해 주세요.\n식당 운영 중이며 브레이크타임에는 통화가 어렵습니다. 정확한 브레이크타임은 미확인입니다.\n용기는 업체에서 수거합니다. 수거 시각·장소는 주문 시 협의해 주세요.\n방문 포장 가능. 매장 안내 라스트오더 19:50이며 도시락 예약 마감은 별도 확인이 필요합니다.",
+      "menu": {
+        "id": "jeonggadam-bulgogi",
+        "name": "소불고기 도시락",
+        "price": 20000,
+        "description": "소불고기 · 세부 구성은 업체 확인 필요 · 제공 사진 참고",
+        "photoUrl": "/local-media/jeonggadam-bulgogi.webp",
+        "photoUrls": [
+          "/local-media/jeonggadam-bulgogi.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "jeonggadam",
+      "name": "정가담",
+      "category": "한식",
+      "phone": "051-518-9830",
+      "address": "부산광역시 금정구 금샘로 15 102호",
+      "mapUrl": "https://naver.me/xf5Mrfou",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 주문 정보·메뉴 사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "delivery": true,
+      "pickup": true,
+      "deliveryFee": null,
+      "leadTime": "도시락 예약 마감 미확인 · 매장 안내 라스트오더 19:50",
+      "orderingNotes": "금액과 관계없이 배달 가능하다는 사용자 제공 정보가 있습니다. 배달비와 최소 주문금액·수량은 별도로 확인해 주세요.\n식당 운영 중이며 브레이크타임에는 통화가 어렵습니다. 정확한 브레이크타임은 미확인입니다.\n용기는 업체에서 수거합니다. 수거 시각·장소는 주문 시 협의해 주세요.\n방문 포장 가능. 매장 안내 라스트오더 19:50이며 도시락 예약 마감은 별도 확인이 필요합니다.",
+      "menu": {
+        "id": "jeonggadam-eel",
+        "name": "장어 도시락",
+        "price": 25000,
+        "description": "장어 · 세부 구성은 업체 확인 필요 · 제공 사진 참고",
+        "photoUrl": "/local-media/jeonggadam-eel.webp",
+        "photoUrls": [
+          "/local-media/jeonggadam-eel.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "jeonggadam",
+      "name": "정가담",
+      "category": "한식",
+      "phone": "051-518-9830",
+      "address": "부산광역시 금정구 금샘로 15 102호",
+      "mapUrl": "https://naver.me/xf5Mrfou",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 주문 정보·메뉴 사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "delivery": true,
+      "pickup": true,
+      "deliveryFee": null,
+      "leadTime": "도시락 예약 마감 미확인 · 매장 안내 라스트오더 19:50",
+      "orderingNotes": "금액과 관계없이 배달 가능하다는 사용자 제공 정보가 있습니다. 배달비와 최소 주문금액·수량은 별도로 확인해 주세요.\n식당 운영 중이며 브레이크타임에는 통화가 어렵습니다. 정확한 브레이크타임은 미확인입니다.\n용기는 업체에서 수거합니다. 수거 시각·장소는 주문 시 협의해 주세요.\n방문 포장 가능. 매장 안내 라스트오더 19:50이며 도시락 예약 마감은 별도 확인이 필요합니다.",
+      "menu": {
+        "id": "jeonggadam-abalone-eel",
+        "name": "전복·장어 도시락",
+        "price": 30000,
+        "description": "전복·장어 · 세부 구성은 업체 확인 필요 · 제공 사진 참고",
+        "photoUrl": "/local-media/jeonggadam-abalone-eel.webp",
+        "photoUrls": [
+          "/local-media/jeonggadam-abalone-eel.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "sushi-simtakai",
+      "name": "스시심타카이",
+      "category": "일식",
+      "phone": "0507-1335-3576",
+      "address": "부산광역시 금정구 부산대학로 29 네오스퀘어 상가 2층",
+      "mapUrl": "https://naver.me/G58bJYA0",
+      "providedAt": "2026-10-29",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자 제공 주문조건·가격·사진 및 네이버 지도 캡처",
+      "minQuantity": 1,
+      "minQuantityConfirmed": true,
+      "minAmount": 0,
+      "minAmountConfirmed": true,
+      "delivery": false,
+      "pickup": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 픽업 시간 사전 문의",
+      "orderingNotes": "배달하지 않습니다. 매장에 직접 방문하여 픽업해야 합니다.\n1개부터 주문 가능합니다.\n픽업 시간·예약 필요 여부는 업체에 확인해 주세요.\n부산대역 3번 출구에서 약 100m, 네오스퀘어 상가 2층입니다. 건물 지하 무료주차 안내가 있습니다.",
+      "menu": {
+        "id": "sushi-simtakai-sushi",
+        "name": "스시",
+        "price": 25000,
+        "description": "초밥 포장 세트 · 세부 구성은 업체 확인 필요 · 사용자 제공 사진 참고",
+        "photoUrl": "/local-media/sushi-simtakai-sushi.webp",
+        "photoUrls": [
+          "/local-media/sushi-simtakai-sushi.webp"
         ]
       },
       "reviews": []
