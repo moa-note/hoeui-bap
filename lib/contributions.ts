@@ -1,0 +1,3 @@
+export type ContributionConfig={formUrl:string;kindEntry:string;vendorEntry:string};
+export function contributionUrl(config:ContributionConfig,kind:'새 식당 추천'|'기존 정보 수정',vendor=''){try{const u=new URL(config.formUrl);if(u.protocol!=='https:'||u.hostname!=='docs.google.com'||u.port||u.username||u.password||!/^\/forms\/d\/(e\/)?[A-Za-z0-9_-]+\/viewform$/.test(u.pathname))return '';u.searchParams.set('usp','pp_url');if(/^entry\.\d+$/.test(config.kindEntry))u.searchParams.set(config.kindEntry,kind);if(vendor&&/^entry\.\d+$/.test(config.vendorEntry))u.searchParams.set(config.vendorEntry,vendor);return u.href;}catch{return '';}}
+export function sourceLabel(source:string|undefined){return source==='vendor'?'업체 확인':source==='order'?'실제 주문 경험':'제보 정보';}
