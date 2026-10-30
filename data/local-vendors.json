@@ -654,6 +654,276 @@
         ]
       },
       "reviews": []
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": 0,
+      "leadTime": "미확인",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "dami",
+      "name": "다미초밥",
+      "phone": "051-552-8988",
+      "address": "",
+      "mapUrl": "https://naver.me/FeXiHOHB",
+      "category": "일식",
+      "menu": {
+        "id": "dami-basic",
+        "name": "기본 스시도시락",
+        "price": 25000,
+        "description": "스시",
+        "photoUrl": "/local-media/dami.webp",
+        "photoUrls": [
+          "/local-media/dami.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": 0,
+      "leadTime": "미확인",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "dami",
+      "name": "다미초밥",
+      "phone": "051-552-8988",
+      "address": "",
+      "mapUrl": "https://naver.me/FeXiHOHB",
+      "category": "일식",
+      "menu": {
+        "id": "dami-premium",
+        "name": "고급 스시도시락",
+        "price": 30000,
+        "description": "스시 · 제공 사진은 기본·고급 공통 참고 사진",
+        "photoUrl": "/local-media/dami.webp",
+        "photoUrls": [
+          "/local-media/dami.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 8800,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "당일 예약 가능 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "mimien",
+      "name": "미미엔 숯불구이",
+      "phone": "0507-1440-5123",
+      "address": "부산광역시 금정구 금강로 272",
+      "mapUrl": "https://naver.me/GOPmjRF8",
+      "orderingHighlights": [
+        "배달의민족으로 주문해 주세요. 배달비·무료배송 적용 여부와 다른 메뉴는 배민에서 확인해 주세요."
+      ],
+      "category": "한식",
+      "menu": {
+        "id": "mimien-bulgogi",
+        "name": "숯불 불고기 도시락",
+        "price": 9800,
+        "description": "밥 + 고기 + 기본찬",
+        "photoUrl": "/local-media/mimien-1.webp",
+        "photoUrls": [
+          "/local-media/mimien-1.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 8800,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "당일 예약 가능 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "mimien",
+      "name": "미미엔 숯불구이",
+      "phone": "0507-1440-5123",
+      "address": "부산광역시 금정구 금강로 272",
+      "mapUrl": "https://naver.me/GOPmjRF8",
+      "orderingHighlights": [
+        "배달의민족으로 주문해 주세요. 배달비·무료배송 적용 여부와 다른 메뉴는 배민에서 확인해 주세요."
+      ],
+      "category": "한식",
+      "menu": {
+        "id": "mimien-spicy",
+        "name": "숯불 매콤불고기 도시락",
+        "price": 9800,
+        "description": "밥 + 고기 + 기본찬",
+        "photoUrl": "/local-media/mimien-2.webp",
+        "photoUrls": [
+          "/local-media/mimien-2.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 8800,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "당일 예약 가능 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "mimien",
+      "name": "미미엔 숯불구이",
+      "phone": "0507-1440-5123",
+      "address": "부산광역시 금정구 금강로 272",
+      "mapUrl": "https://naver.me/GOPmjRF8",
+      "orderingHighlights": [
+        "배달의민족으로 주문해 주세요. 배달비·무료배송 적용 여부와 다른 메뉴는 배민에서 확인해 주세요."
+      ],
+      "category": "한식",
+      "menu": {
+        "id": "mimien-pork",
+        "name": "숯불 삼겹구이 도시락",
+        "price": 10800,
+        "description": "밥 + 고기 + 기본찬",
+        "photoUrl": "/local-media/mimien-3.webp",
+        "photoUrls": [
+          "/local-media/mimien-3.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 8800,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "당일 예약 가능 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "mimien",
+      "name": "미미엔 숯불구이",
+      "phone": "0507-1440-5123",
+      "address": "부산광역시 금정구 금강로 272",
+      "mapUrl": "https://naver.me/GOPmjRF8",
+      "orderingHighlights": [
+        "배달의민족으로 주문해 주세요. 배달비·무료배송 적용 여부와 다른 메뉴는 배민에서 확인해 주세요."
+      ],
+      "category": "한식",
+      "menu": {
+        "id": "mimien-octopus",
+        "name": "숯불쭈꾸미 삼겹살도시락",
+        "price": 10800,
+        "description": "밥 + 고기 + 기본찬",
+        "photoUrl": "/local-media/mimien-4.webp",
+        "photoUrls": [
+          "/local-media/mimien-4.webp"
+        ]
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 200000,
+      "minAmountConfirmed": true,
+      "deliveryFee": 0,
+      "leadTime": "3일 전 연락 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "damda",
+      "name": "담다",
+      "phone": "0507-1490-4600",
+      "address": "부산광역시 금정구 금강로279번길 67 상가동 1층",
+      "mapUrl": "https://naver.me/FMTfJEgu",
+      "orderingHighlights": [
+        "최소 주문금액 200,000원 이상으로, 주문 가능 여부를 문의해 주세요.",
+        "다양한 메뉴 조합이 가능합니다. 표시 가격은 시작 가격이며 최종 구성·금액은 업체에 문의해 주세요."
+      ],
+      "category": "한식",
+      "menu": {
+        "id": "damda-korean",
+        "name": "한식 도시락",
+        "price": 15000,
+        "description": "한식 · 구성별 가격은 업체 문의",
+        "photoUrl": "/local-media/damda-1.webp",
+        "photoUrls": [
+          "/local-media/damda-1.webp"
+        ],
+        "priceFrom": true
+      }
+    },
+    {
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 200000,
+      "minAmountConfirmed": true,
+      "deliveryFee": 0,
+      "leadTime": "3일 전 연락 · 대량 주문 사전 문의",
+      "verifiedAt": "",
+      "providedAt": "2026-10-30",
+      "sourceType": "vendor",
+      "sourceDetail": "사용자가 업체에 직접 확인 · 직접 확인 날짜 미기재",
+      "reviews": [],
+      "id": "damda",
+      "name": "담다",
+      "phone": "0507-1490-4600",
+      "address": "부산광역시 금정구 금강로279번길 67 상가동 1층",
+      "mapUrl": "https://naver.me/FMTfJEgu",
+      "orderingHighlights": [
+        "최소 주문금액 200,000원 이상으로, 주문 가능 여부를 문의해 주세요.",
+        "다양한 메뉴 조합이 가능합니다. 표시 가격은 시작 가격이며 최종 구성·금액은 업체에 문의해 주세요."
+      ],
+      "category": "그 외",
+      "menu": {
+        "id": "damda-fusion",
+        "name": "김밥&유부&샌드위치 도시락",
+        "price": 10000,
+        "description": "김밥 + 유부초밥 + 샌드위치",
+        "photoUrl": "/local-media/damda-2.webp",
+        "photoUrls": [
+          "/local-media/damda-2.webp"
+        ],
+        "priceFrom": true
+      }
     }
   ]
 }
