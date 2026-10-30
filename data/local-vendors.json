@@ -31,7 +31,10 @@
       "addressSource": "https://www.diningcode.com/profile.php?rid=2lnzHLRppy9R",
       "naverPlaceId": "1707767854",
       "providedAt": "2026-10-29",
-      "sourceType": "reported"
+      "sourceType": "reported",
+      "orderingHighlights": [
+        "카드 결제 시 매장 방문이 필요합니다."
+      ]
     },
     {
       "id": "iam",
@@ -65,7 +68,10 @@
       "addressSource": "https://www.diningcode.com/profile.php?rid=2puJLV7RSBGn",
       "naverPlaceId": "1279583282",
       "providedAt": "2026-10-29",
-      "sourceType": "reported"
+      "sourceType": "reported",
+      "orderingHighlights": [
+        "부산대는 일반 최소 주문금액 30만 원의 예외로 10개부터 배달 가능하며, 미리 주문해야 합니다."
+      ]
     },
     {
       "id": "12dal",
@@ -100,7 +106,11 @@
         ]
       },
       "reviews": [],
-      "freeDeliveryFrom": null
+      "freeDeliveryFrom": null,
+      "orderingHighlights": [
+        "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있으면 가능할 수 있으니 사전에 문의하세요.",
+        "소량 주문은 개당 20,000원 이상 필요하다는 전달 정보가 있습니다. 적용 메뉴·수량·단가는 업체 확인이 필요합니다."
+      ]
     },
     {
       "id": "12dal",
@@ -135,7 +145,11 @@
         ]
       },
       "reviews": [],
-      "freeDeliveryFrom": null
+      "freeDeliveryFrom": null,
+      "orderingHighlights": [
+        "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있으면 가능할 수 있으니 사전에 문의하세요.",
+        "소량 주문은 개당 20,000원 이상 필요하다는 전달 정보가 있습니다. 적용 메뉴·수량·단가는 업체 확인이 필요합니다."
+      ]
     },
     {
       "id": "songrim",
@@ -167,7 +181,11 @@
           "/local-media/songrim-yukgaejang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -199,7 +217,11 @@
           "/local-media/songrim-daegutang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -231,7 +253,11 @@
           "/local-media/songrim-galbitang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -263,7 +289,11 @@
           "/local-media/songrim-bibim-yukgaejang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -295,7 +325,11 @@
           "/local-media/songrim-bibim-daegutang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -327,7 +361,11 @@
           "/local-media/songrim-bibim-galbitang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "songrim",
@@ -359,7 +397,11 @@
           "/local-media/songrim-special-galbitang.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
+      ],
+      "lastOrder": "19:30"
     },
     {
       "id": "mongport",
@@ -391,7 +433,9 @@
           "/local-media/mongport-standard.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [],
+      "lastOrder": "20:00"
     },
     {
       "id": "mongport",
@@ -423,7 +467,9 @@
           "/local-media/mongport-salmon.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [],
+      "lastOrder": "20:00"
     },
     {
       "id": "jeonggadam",
@@ -455,7 +501,12 @@
           "/local-media/jeonggadam-bulgogi.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
+        "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
+      ],
+      "lastOrder": "19:50"
     },
     {
       "id": "jeonggadam",
@@ -487,7 +538,12 @@
           "/local-media/jeonggadam-eel.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
+        "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
+      ],
+      "lastOrder": "19:50"
     },
     {
       "id": "jeonggadam",
@@ -519,7 +575,12 @@
           "/local-media/jeonggadam-abalone-eel.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
+        "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
+      ],
+      "lastOrder": "19:50"
     },
     {
       "id": "sushi-simtakai",
@@ -551,7 +612,11 @@
           "/local-media/sushi-simtakai-sushi.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "orderingHighlights": [
+        "픽업 시간과 예약 필요 여부는 사전에 확인해 주세요.",
+        "건물 지하 무료주차 안내가 있습니다."
+      ]
     }
   ]
 }
