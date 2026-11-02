@@ -34,7 +34,8 @@
       "sourceType": "reported",
       "orderingHighlights": [
         "카드 결제 시 매장 방문이 필요합니다."
-      ]
+      ],
+      "section": "식사"
     },
     {
       "id": "iam",
@@ -71,7 +72,8 @@
       "sourceType": "reported",
       "orderingHighlights": [
         "부산대는 일반 최소 주문금액 30만 원의 예외로 10개부터 배달 가능하며, 미리 주문해야 합니다."
-      ]
+      ],
+      "section": "식사"
     },
     {
       "id": "12dal",
@@ -110,7 +112,8 @@
       "orderingHighlights": [
         "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있으면 가능할 수 있으니 사전에 문의하세요.",
         "소량 주문은 개당 20,000원 이상 필요하다는 전달 정보가 있습니다. 적용 메뉴·수량·단가는 업체 확인이 필요합니다."
-      ]
+      ],
+      "section": "식사"
     },
     {
       "id": "12dal",
@@ -149,7 +152,8 @@
       "orderingHighlights": [
         "소량 주문은 원칙적으로 불가합니다. 다른 기존 주문이 있으면 가능할 수 있으니 사전에 문의하세요.",
         "소량 주문은 개당 20,000원 이상 필요하다는 전달 정보가 있습니다. 적용 메뉴·수량·단가는 업체 확인이 필요합니다."
-      ]
+      ],
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -185,7 +189,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -221,7 +226,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -257,7 +263,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -293,7 +300,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -329,7 +337,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -365,7 +374,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "songrim",
@@ -401,7 +411,8 @@
       "orderingHighlights": [
         "단체 포장과 수령 시간은 사전에 전화로 확인해 주세요."
       ],
-      "lastOrder": "19:30"
+      "lastOrder": "19:30",
+      "section": "식사"
     },
     {
       "id": "mongport",
@@ -435,7 +446,8 @@
       },
       "reviews": [],
       "orderingHighlights": [],
-      "lastOrder": "20:00"
+      "lastOrder": "20:00",
+      "section": "식사"
     },
     {
       "id": "mongport",
@@ -469,7 +481,8 @@
       },
       "reviews": [],
       "orderingHighlights": [],
-      "lastOrder": "20:00"
+      "lastOrder": "20:00",
+      "section": "식사"
     },
     {
       "id": "jeonggadam",
@@ -506,7 +519,8 @@
         "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
         "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
       ],
-      "lastOrder": "19:50"
+      "lastOrder": "19:50",
+      "section": "식사"
     },
     {
       "id": "jeonggadam",
@@ -543,7 +557,8 @@
         "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
         "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
       ],
-      "lastOrder": "19:50"
+      "lastOrder": "19:50",
+      "section": "식사"
     },
     {
       "id": "jeonggadam",
@@ -580,7 +595,8 @@
         "브레이크타임에는 통화가 어렵습니다. 정확한 시간은 업체에 확인하세요.",
         "용기는 업체에서 수거합니다. 수거 시간·장소는 주문 시 협의해 주세요."
       ],
-      "lastOrder": "19:50"
+      "lastOrder": "19:50",
+      "section": "식사"
     },
     {
       "id": "sushi-simtakai",
@@ -616,7 +632,8 @@
       "orderingHighlights": [
         "픽업 시간과 예약 필요 여부는 사전에 확인해 주세요.",
         "건물 지하 무료주차 안내가 있습니다."
-      ]
+      ],
+      "section": "식사"
     },
     {
       "id": "myeongjune-bossam",
@@ -653,7 +670,8 @@
           "/local-media/myeongjune-bossam.webp"
         ]
       },
-      "reviews": []
+      "reviews": [],
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -684,7 +702,8 @@
         "photoUrls": [
           "/local-media/dami.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -715,7 +734,8 @@
         "photoUrls": [
           "/local-media/dami.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -749,7 +769,8 @@
         "photoUrls": [
           "/local-media/mimien-1.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -783,7 +804,8 @@
         "photoUrls": [
           "/local-media/mimien-2.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -817,7 +839,8 @@
         "photoUrls": [
           "/local-media/mimien-3.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -851,7 +874,8 @@
         "photoUrls": [
           "/local-media/mimien-4.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -887,7 +911,8 @@
           "/local-media/damda-1.webp"
         ],
         "priceFrom": true
-      }
+      },
+      "section": "식사"
     },
     {
       "delivery": true,
@@ -923,7 +948,8 @@
           "/local-media/damda-2.webp"
         ],
         "priceFrom": true
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -958,7 +984,8 @@
         "photoUrls": [
           "/local-media/bon-1.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -993,7 +1020,8 @@
         "photoUrls": [
           "/local-media/bon-2.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1028,7 +1056,8 @@
         "photoUrls": [
           "/local-media/bon-3.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1063,7 +1092,8 @@
         "photoUrls": [
           "/local-media/bon-4.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1098,7 +1128,8 @@
         "photoUrls": [
           "/local-media/bon-5.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1133,7 +1164,8 @@
         "photoUrls": [
           "/local-media/bon-6.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1168,7 +1200,8 @@
         "photoUrls": [
           "/local-media/bon-7.webp"
         ]
-      }
+      },
+      "section": "식사"
     },
     {
       "minQuantity": 1,
@@ -1179,7 +1212,7 @@
       "reviews": [],
       "id": "nohs",
       "name": "노스커피 부산대 정문점",
-      "category": "그 외",
+      "category": "커피·음료",
       "phone": "010-4171-3388",
       "contactMode": "sms",
       "address": "부산광역시 금정구 부산대학로63번길 21",
@@ -1205,8 +1238,1661 @@
         "photoUrl": "/local-media/nohs-catering.webp",
         "photoUrls": [
           "/local-media/nohs-catering.webp"
+        ],
+        "unit": "잔"
+      },
+      "section": "다과·음료"
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-honey",
+        "name": "꿀설기",
+        "price": 1800,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-a1.webp",
+        "photoUrls": [
+          "/local-media/joseon-a1.webp"
         ]
-      }
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-pumpkin",
+        "name": "단호박꿀설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-a2.webp",
+        "photoUrls": [
+          "/local-media/joseon-a2.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-pizza",
+        "name": "피자설기",
+        "price": 2500,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-a3.webp",
+        "photoUrls": [
+          "/local-media/joseon-a3.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-sesame",
+        "name": "흑임자설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-a4.webp",
+        "photoUrls": [
+          "/local-media/joseon-a4.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-mugwort",
+        "name": "쑥설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-a5.webp",
+        "photoUrls": [
+          "/local-media/joseon-a5.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-strawberry",
+        "name": "딸기설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-b1.webp",
+        "photoUrls": [
+          "/local-media/joseon-b1.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-blueberry",
+        "name": "블루베리설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-b2.webp",
+        "photoUrls": [
+          "/local-media/joseon-b2.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-castella",
+        "name": "카스테라설기",
+        "price": 2000,
+        "unit": "개",
+        "description": "카스테라설기 · 제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-castella.webp",
+        "photoUrls": [
+          "/local-media/joseon-castella.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-injeolmi",
+        "name": "콩고물쑥인절미",
+        "price": 5000,
+        "unit": "판매 단위",
+        "description": "제공 가격 기준 · 1팩의 수량·중량은 업체 확인 필요",
+        "photoUrl": "/local-media/joseon-a6.webp",
+        "photoUrls": [
+          "/local-media/joseon-a6.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-pumpkin-injeolmi",
+        "name": "카스테라 단호박인절미",
+        "price": 6000,
+        "unit": "판매 단위",
+        "description": "제공 가격 기준 · 1팩의 수량·중량은 업체 확인 필요",
+        "photoUrl": "/local-media/joseon-a7.webp",
+        "photoUrls": [
+          "/local-media/joseon-a7.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-honey-rice",
+        "name": "꿀떡",
+        "price": 4000,
+        "unit": "판매 단위",
+        "description": "제공 가격 기준 · 1팩의 수량·중량은 업체 확인 필요",
+        "photoUrl": "/local-media/joseon-a8.webp",
+        "photoUrls": [
+          "/local-media/joseon-a8.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-wind",
+        "name": "바람떡",
+        "price": 2800,
+        "unit": "판매 단위",
+        "description": "제공 가격 기준 · 1팩의 수량·중량은 업체 확인 필요",
+        "photoUrl": "/local-media/joseon-a9.webp",
+        "photoUrls": [
+          "/local-media/joseon-a9.webp"
+        ]
+      },
+      "reviews": []
+    },
+    {
+      "id": "joseon",
+      "name": "조선인절미",
+      "section": "다과·음료",
+      "category": "떡",
+      "phone": "",
+      "address": "부산광역시 금정구 장전로 16",
+      "mapUrl": "https://naver.me/Fafy0CJr",
+      "referenceUrl": "https://www.instagram.com/joseoninjeolmi/",
+      "delivery": true,
+      "pickup": true,
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": null,
+      "leadTime": "희망일·시간 및 예약 기한은 주문 시 문의",
+      "providedAt": "2026-11-02",
+      "verifiedAt": "",
+      "sourceType": "reported",
+      "sourceDetail": "사용자가 제공한 업체 주문 안내·메뉴 가격·사진",
+      "orderingHighlights": [
+        "배달의민족 주문 및 배송·픽업 가능. 1박스에 최대 2가지 맛 혼합 가능 여부와 구성을 주문 시 확인해 주세요.",
+        "전국 택배 4,000원. 금정구 퀵 5,000원으로 안내되어 있으며, 다른 지역과 최종 요금은 업체에 확인해 주세요.",
+        "퀵 비용은 거리·시간에 따라 달라지며, 요청 시간보다 최대 30분 일찍 도착할 수 있습니다.",
+        "되 단위 주문 시 기본 박스 무료, 선물 박스 +1,000원, 보자기 +3,000원. 단체 주문 시 포장 선택 불가. 개별 스티커는 되당 +3,000원.",
+        "가격별 수량·중량과 최소 주문 조건은 업체 문의. 총금액은 확인 후 개별 안내됩니다."
+      ],
+      "bulkPrices": [
+        {
+          "name": "백설기",
+          "price": 25000
+        },
+        {
+          "name": "꿀설기",
+          "price": 30000
+        },
+        {
+          "name": "쑥설기",
+          "price": 35000
+        },
+        {
+          "name": "완두설기",
+          "price": 35000
+        },
+        {
+          "name": "옥수수설기",
+          "price": 40000
+        },
+        {
+          "name": "흑임자설기",
+          "price": 40000
+        },
+        {
+          "name": "카스테라설기",
+          "price": 40000
+        },
+        {
+          "name": "블루베리설기",
+          "price": 40000
+        },
+        {
+          "name": "초코설기",
+          "price": 40000
+        },
+        {
+          "name": "단호박 꿀설기",
+          "price": 40000
+        },
+        {
+          "name": "딸기설기",
+          "price": 45000
+        },
+        {
+          "name": "피자설기",
+          "price": 50000
+        },
+        {
+          "name": "불닭햄치즈설기",
+          "price": 50000
+        },
+        {
+          "name": "콩고물 인절미",
+          "price": 35000
+        },
+        {
+          "name": "흑임자인절미",
+          "price": 40000
+        },
+        {
+          "name": "콩고물 쑥인절미",
+          "price": 40000
+        },
+        {
+          "name": "카스테라 초코인절미",
+          "price": 45000
+        },
+        {
+          "name": "카스테라 단호박인절미",
+          "price": 45000
+        },
+        {
+          "name": "찹쌀떡",
+          "price": 50000
+        },
+        {
+          "name": "쑥 찹쌀떡",
+          "price": 60000
+        },
+        {
+          "name": "자색고구마 찹쌀떡",
+          "price": 60000
+        }
+      ],
+      "menu": {
+        "id": "joseon-filled",
+        "name": "앙꼬절편 (2개)",
+        "price": 2500,
+        "unit": "2개 묶음",
+        "description": "제공 사진 참고 · 구성은 주문 시 확인",
+        "photoUrl": "/local-media/joseon-b4.webp",
+        "photoUrls": [
+          "/local-media/joseon-b4.webp"
+        ]
+      },
+      "reviews": []
     }
   ]
 }
