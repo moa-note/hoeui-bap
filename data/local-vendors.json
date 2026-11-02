@@ -924,6 +924,289 @@
         ],
         "priceFrom": true
       }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-1",
+        "name": "바싹불고기 국반상",
+        "price": 9900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-1.webp",
+        "photoUrls": [
+          "/local-media/bon-1.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-2",
+        "name": "제육볶음 반상",
+        "price": 10500,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-2.webp",
+        "photoUrls": [
+          "/local-media/bon-2.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-3",
+        "name": "바싹불고기 제육볶음 한상",
+        "price": 12900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-3.webp",
+        "photoUrls": [
+          "/local-media/bon-3.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-4",
+        "name": "바싹불고기 숯불매콤닭구이 한상",
+        "price": 12900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-4.webp",
+        "photoUrls": [
+          "/local-media/bon-4.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-5",
+        "name": "바싹불고기 오징어볶음 한상",
+        "price": 14900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-5.webp",
+        "photoUrls": [
+          "/local-media/bon-5.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-6",
+        "name": "더덕 장어구이 바싹불고기 한상",
+        "price": 18900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-6.webp",
+        "photoUrls": [
+          "/local-media/bon-6.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "bon",
+      "name": "본도시락",
+      "category": "한식",
+      "phone": "051-518-4282",
+      "address": "부산광역시 금정구 금정로 86",
+      "mapUrl": "https://naver.me/FLyOaRs2",
+      "delivery": true,
+      "pickup": true,
+      "minAmount": 20000,
+      "minAmountConfirmed": true,
+      "deliveryFee": null,
+      "leadTime": "미확인 · 주문 시 문의",
+      "sourceDetail": "사용자가 제공한 배달의민족 정보",
+      "orderingHighlights": [
+        "배달의민족 또는 전화로 주문할 수 있습니다.",
+        "배달비와 무료배송 적용 조건은 배달의민족 또는 주문 시 업체에 확인해 주세요."
+      ],
+      "menu": {
+        "id": "bon-7",
+        "name": "특선 LA갈비구이 한정식",
+        "price": 27900,
+        "description": "세부 구성은 메뉴 사진 참고 · 주문 시 확인",
+        "photoUrl": "/local-media/bon-7.webp",
+        "photoUrls": [
+          "/local-media/bon-7.webp"
+        ]
+      }
+    },
+    {
+      "minQuantity": 1,
+      "minQuantityConfirmed": false,
+      "verifiedAt": "",
+      "providedAt": "2026-11-02",
+      "sourceType": "reported",
+      "reviews": [],
+      "id": "nohs",
+      "name": "노스커피 부산대 정문점",
+      "category": "그 외",
+      "phone": "010-4171-3388",
+      "contactMode": "sms",
+      "address": "부산광역시 금정구 부산대학로63번길 21",
+      "mapUrl": "https://naver.me/GagZyxDK",
+      "delivery": true,
+      "pickup": null,
+      "minAmount": 0,
+      "minAmountConfirmed": false,
+      "deliveryFee": 0,
+      "leadTime": "예약 기한은 업체 문의 (문자)",
+      "sourceDetail": "사용자가 제공한 커피 케이터링 안내문·홍보 이미지",
+      "orderingHighlights": [
+        "최소 주문 잔 수·금액과 예약 기한은 업체에 문의해 주세요. 안내문 기준 전화 상담은 어려우며 문자 문의만 가능합니다.",
+        "부산대학교 교내 및 인근 음료 배달은 무료입니다. 그 외 지역은 문의해 주세요.",
+        "현장 세팅·회수는 출장비 100,000원이 별도로 안내되어 있습니다. 적용 조건과 최종 견적을 문의해 주세요.",
+        "쿠키·디저트도 준비 가능하며 구성과 가격은 별도 문의입니다."
+      ],
+      "menu": {
+        "id": "nohs-catering",
+        "name": "커피·음료 케이터링 (잔당)",
+        "price": 3000,
+        "description": "HOT/ICE 아메리카노, 아이스티, 티백 차 · 잔당 3,000원 · 현장 세팅·회수 출장비 별도",
+        "photoUrl": "/local-media/nohs-catering.webp",
+        "photoUrls": [
+          "/local-media/nohs-catering.webp"
+        ]
+      }
     }
   ]
 }
